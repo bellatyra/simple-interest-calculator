@@ -1,0 +1,25 @@
+Command:
+curl -s https://api.github.com/repos/bellatyra/simple-interest-calculator/pulls?state=all
+
+Output (relevant excerpt):
+[
+  {
+    "html_url": "https://github.com/bellatyra/simple-interest-calculator/pull/1",
+    "number": 1,
+    "state": "closed",
+    "title": "Another small fix",
+    "merged_at": "2026-07-20T05:14:42Z",
+    "merge_commit_sha": "19d053a9065e402d5db52c7b9490d01402cccd93",
+    "head": {
+      "label": "bellatyra:bug-fix-typo",
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "bellatyra/simple-interest-calculator"
+      }
+    },
+    "base": {
+      "label": "bellatyra:main",
+      "ref": "main"
+    }
+  }
+]
