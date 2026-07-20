@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A hard Python program that calculates simple interest based on user-provided principal amount, interest rate, and time period.
+A simple Python program that calculates simple interest based on user-provided principal amount, interest rate, and time period.
 
 ## Formula
 
