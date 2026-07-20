@@ -13,7 +13,7 @@ Where:
 ## How It Works
 
 1. The program prompts the user to enter:
-   - Principal amount
+   - Principl amount
    - Annual interest rate (%)
    - Time period (in years)
 2. It calculates the simple interest using the formula above.
