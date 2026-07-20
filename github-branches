@@ -1,0 +1,12 @@
+Command:
+git branch -vv
+git branch -a
+
+Output:
+@bellatyra ➜ /workspaces/simple-interest-calculator (main) $ git branch -vv
+* main b3285a5 [origin/main] Create bug-fix-revert
+@bellatyra ➜ /workspaces/simple-interest-calculator (main) $ git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
